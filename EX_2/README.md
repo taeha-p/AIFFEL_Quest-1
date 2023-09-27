@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Exploration-1&fontSize=90" />
 
 1. 캐글 데이터분석 전과정이 성공적으로 진행되었는가? 작성한 노트북을 캐글에 제출했다. --> 
+- [캐글 URL](https://www.kaggle.com/brian604/exploration2-housingprice)
 2. 전처리, 학습과정 및 결과에 대한 설명이 시각화를 포함하여 체계적으로 진행되었는가? --> 
-3. 회귀모델 예측정확도가 기준 이상 높게 나왔는가? --> 아니요.
+3. 회귀모델 예측정확도가 기준 이상 높게 나왔는가? --> 아니요. 기준에 못 미쳤습니다.
 
 
 > Template 입니다. 
